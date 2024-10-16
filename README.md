@@ -2,7 +2,6 @@
 
 A simple, functional calculator app built using HTML, CSS, and JavaScript. This project was created as part of **Micro Project 3**, and it mimics the design and functionalities provided in a Figma design reference. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division, with extra functionality for deleting the last character and resetting the display.
 
-![Calculator Demo](./demo.gif)
 
 ## Table of Contents
 - [Features](#features)

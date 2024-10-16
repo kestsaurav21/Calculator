@@ -16,7 +16,6 @@ A simple, functional calculator app built using HTML, CSS, and JavaScript. This 
 - **DEL Button**: Deletes the last character in the input field.
 - **RESET Button**: Resets the calculator's display to "0".
 - **Real-time Calculation**: Evaluate mathematical expressions using the `=` button.
-- **Responsive Design**: The layout is responsive, ensuring proper display on different screen sizes.
 
 ## Technologies Used
 - **HTML5**: For structuring the UI with semantic tags.

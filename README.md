@@ -38,7 +38,7 @@ Follow these steps to run the calculator app locally on your machine:
 
 4. **Usage:**
     - **Click on the number buttons to input values.**
-    - **Use operators +, -, *, and / for arithmetic operations.**
+    - **Use operators +, -, and / for arithmetic operations.**
     - **DEL button removes the last input character.**
     - **RESET button clears the entire input and resets the display to "0".**
     - **= button evaluates the current expression and displays the result.**
